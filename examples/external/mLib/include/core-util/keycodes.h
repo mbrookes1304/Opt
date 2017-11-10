@@ -18,10 +18,10 @@
 #define KEY_END               35
 #define KEY_HOME              36
 
-#define KEY_LEFT              37
-#define KEY_UP                38
-#define KEY_RIGHT             39
-#define KEY_DOWN              40
+#define OPT_KEY_LEFT          37
+#define OPT_KEY_UP            38
+#define OPT_KEY_RIGHT         39
+#define OPT_KEY_DOWN          40
 
 #define KEY_INSERT            45
 #define KEY_DELETE            46
